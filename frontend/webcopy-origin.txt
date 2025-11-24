@@ -1,0 +1,840 @@
+Uri: https://keynote.tailwindui.com/
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\index.htm
+Content Type: text/html
+
+Uri: https://keynote.tailwindui.com/favicon.ico
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fandrew-greene.b3513453.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\andrew-greene-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcathlene-burrage.1651afc0.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\cathlene-burrage-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdamaris-kimura.5df6b6b2.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\damaris-kimura-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdianne-guilianelli.b4c5891f.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\dianne-guilianelli-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ferhart-cockrin.3697fef6.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\erhart-cockrin-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgiordano-sagucio.2d66325a.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\giordano-sagucio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgordon-sanderson.88b5e762.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\gordon-sanderson-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheather-terry.3aaa9642.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\heather-terry-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fibrahim-frasch.56350f5a.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ibrahim-frasch-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjaquelin-isch.880e5248.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\jaquelin-isch-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkimberly-parsons.0e123ad0.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\kimberly-parsons-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\parker-johnson-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpiers-wilkins.c197a055.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\piers-wilkins-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frichard-astley.599fe903.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\richard-astley-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frinaldo-beynon.c48f36b7.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\rinaldo-beynon-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fronni-cantadore.0d04b7fe.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\ronni-cantadore-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsteven-mchail.4e94472e.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\steven-mchail-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-6.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-7.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-8.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-9.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=256&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-1.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=384&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-2.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-3.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-4.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaylon-hyden.4c037cf5.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\waylon-hyden-5.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/173-e44c236f094e2c21.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\173-e44c236f094e2c21.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/23-8366100e843b9741.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\23-8366100e843b9741.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/231-c2c3db05d36a4790.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\231-c2c3db05d36a4790.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/397-4f7e053a55011432.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\397-4f7e053a55011432.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/app/(main)/layout-7a9201a22d65620b.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\app\(main)\layout-7a9201a22d65620b.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/app/(main)/page-4d46134d04ab1e99.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\app\(main)\page-4d46134d04ab1e99.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/fd9d1056-8a2f4edd052c0f6f.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\fd9d1056-8a2f4edd052c0f6f.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/main-app-10ccd9398caea97d.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\main-app-10ccd9398caea97d.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/chunks/webpack-1f5337af2d6ebed0.js
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\chunks\webpack-1f5337af2d6ebed0.js
+Content Type: application/javascript
+
+Uri: https://keynote.tailwindui.com/_next/static/css/1a6dd6d965f84165.css
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\css\1a6dd6d965f84165.css
+Content Type: text/css
+
+Uri: https://keynote.tailwindui.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/56d4c7a1c09c3371-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\56d4c7a1c09c3371-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/7e6a2e30184bb114-s.p.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\7e6a2e30184bb114-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/background-newsletter.488a0204.jpg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\background-newsletter.488a0204.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/static/media/background.6c3571e0.jpg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\background.6c3571e0.jpg
+Content Type: image/jpeg
+
+Uri: https://keynote.tailwindui.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
+Uri: https://keynote.tailwindui.com/_next/static/media/laravel.6faebf7c.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\laravel.6faebf7c.svg
+Content Type: image/svg+xml
+
+Uri: https://keynote.tailwindui.com/_next/static/media/mirage.e12f40ad.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\mirage.e12f40ad.svg
+Content Type: image/svg+xml
+
+Uri: https://keynote.tailwindui.com/_next/static/media/statamic.923101b6.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\statamic.923101b6.svg
+Content Type: image/svg+xml
+
+Uri: https://keynote.tailwindui.com/_next/static/media/statickit.2e06fcea.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\statickit.2e06fcea.svg
+Content Type: image/svg+xml
+
+Uri: https://keynote.tailwindui.com/_next/static/media/transistor.a1e38d49.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\transistor.a1e38d49.svg
+Content Type: image/svg+xml
+
+Uri: https://keynote.tailwindui.com/_next/static/media/tuple.2f54ed03.svg
+File Name: C:\Downloaded Web Sites\keynote.tailwindui.com\_next\static\media\tuple.2f54ed03.svg
+Content Type: image/svg+xml
+
