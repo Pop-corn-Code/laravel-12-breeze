@@ -5,7 +5,7 @@ A complete Laravel 12 starter project integrated with Breeze for authentication,
 ---
 
 ## 📺 Tutoriel Vidéo (Français)
-Retrouvez toutes les explications détaillées dans cette vidéo :
-👉 **[[LIEN VERS TA VIDÉO YOUTUBE]](https://www.youtube.com/playlist?list=PLOZ9CjVyf1Ev3CmThXNOrvBJcu_itsIAP)**
+Retrouvez toutes les explications détaillées dans cette formation :
+👉 **[[LIEN VERS LA FORMATION YOUTUBE]](https://www.youtube.com/playlist?list=PLOZ9CjVyf1Ev3CmThXNOrvBJcu_itsIAP)**
 
 ---
